@@ -1,0 +1,452 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Num",
+				"Number2"
+			],
+			[
+				"Numb",
+				"Number1"
+			],
+			[
+				"u",
+				"UsingTask"
+			],
+			[
+				"Ex",
+				"ExtensionPack"
+			],
+			[
+				"MSBuildExtensionsP",
+				"MSBuildExtensionsPath64"
+			],
+			[
+				"f",
+				"fun	(fun) new function"
+			],
+			[
+				"Target",
+				"TargetB"
+			],
+			[
+				"Tar",
+				"Target	msbuild-target"
+			],
+			[
+				"Message",
+				"Message [Simple]"
+			],
+			[
+				"crea",
+				"CreateItem [Simple]"
+			],
+			[
+				"ent",
+				"enterprise"
+			],
+			[
+				"T",
+				"TargetD"
+			],
+			[
+				"D",
+				"DependsOnTargets"
+			],
+			[
+				"CallT",
+				"CallTarget [Simple]"
+			],
+			[
+				"Ta",
+				"TargetB"
+			],
+			[
+				"Ite",
+				"ItemGroup [Full]"
+			],
+			[
+				"G",
+				"GoodByeWorld"
+			],
+			[
+				"Hell",
+				"HelloWorld"
+			],
+			[
+				"hell",
+				"hellojs	hello"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 196.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"instpackage ",
+				"Package Control: Install Package"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"msbui",
+				"Set Syntax: MSBuild"
+			],
+			[
+				"power",
+				"Set Syntax: Powershell v2"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"Snippet: ",
+				"Snippet: New MSBuild Script"
+			],
+			[
+				"fe",
+				"Fetch: Package"
+			],
+			[
+				"fetc",
+				"Fetch: File"
+			],
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"msbu",
+				"Set Syntax: MSBuild"
+			],
+			[
+				"msbui	",
+				"Set Syntax: MSBuild"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"snippet",
+				"Snippet: html"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"",
+				"Set Syntax: C#"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Softies/Sublime Text 2.0.1 x64/Data/Packages/PlainTasks/Readme.md",
+		"/E/Softies/Sublime Text 2.0.1 x64/Data/Packages/PlainTasks/Default (Windows).sublime-keymap",
+		"/E/Softies/Sublime Text 2.0.1 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/N/Wayne/SP install/SP/AutoSPInstaller/AutoSPInstallerInput-NZSUPERFUND.xml",
+		"/C/Windows/System32/Drivers/etc/hosts",
+		"/C/Program Files (x86)/Acrylic DNS Proxy/AcrylicHosts.txt",
+		"/C/Program Files (x86)/Acrylic DNS Proxy/AcrylicConfiguration.ini",
+		"/E/Projects/MSBuild/MSBuild-Extension-Pack/MSBuild Extension Pack/MSBuild.ExtensionPack.tasks",
+		"/E/Projects/MSBuild/module2/DoSomething.proj",
+		"/E/Windows 8/Movies App/HelloWorldTypeScript/LessAndSaas/qunit-master/qunit-master/test/async.js",
+		"/E/Projects/MSBuild/module2/common.targets",
+		"/E/Projects/MSBuild/module2/common.props",
+		"/E/Softies/Sublime Text 2.0.1 x64/Data/Packages/Shell Turtlestein/Default (Windows).sublime-keymap",
+		"/E/Softies/Sublime Text 2.0.1 x64/Data/Packages/User/MsBuild/msbuild-target.sublime-snippet",
+		"/E/Softies/Sublime Text 2.0.1 x64/Data/Packages/C++/C++.sublime-build",
+		"/E/Projects/MSBuild/Config.rsp",
+		"/E/Softies/Sublime Text 2.0.1 x64/Data/Packages/User/Fetch.sublime-settings",
+		"/E/Projects/MSBuild/DoSomething.msbuild",
+		"/E/Projects/MSBuild/MSBuildExecutionCycle.msbuild",
+		"/E/Softies/Sublime Text 2.0.1 x64/Data/Packages/Indent XML/README.md",
+		"/E/Softies/Sublime Text 2.0.1 x64/Data/Packages/AdvancedNewFile/README.md",
+		"/E/Projects/MSBuild/Test/test.js",
+		"/E/Softies/Sublime Text 2.0.1 x64/Data/Packages/Http Requester/README.md",
+		"/E/Softies/Sublime Text 2.0.1 x64/Data/Packages/User/Build/MSBuild-Custom.sublime-build",
+		"/E/Projects/MSBuild/MSBuild-TestBench.sublime-project",
+		"/E/Softies/Sublime Text 2.0.1 x64/Data/Packages/MSBuild/MSBuild.sublime-settings",
+		"/E/Softies/Sublime Text 2.0.1 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/donnelc/Documents/Clients/NZKS/js/test.js",
+		"/C/Users/donnelc/Documents/Clients/NZKS/js/normalise.css",
+		"/C/Users/donnelc/Documents/Clients/NZKS/js/sublimetext.txt",
+		"/E/Softies/Sublime Text 2.0.1 x64/Data/Packages/User/Html/hello.sublime-snippet",
+		"/E/Softies/Sublime Text 2.0.1 x64/Data/Packages/User/HTML/hello.sublime-snippet",
+		"/C/Users/donnelc/Documents/Clients/NZKS/js/HTML/hello.sublime-snippet",
+		"/C/Users/donnelc/Downloads/Sublime Text 2.0.1 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/donnelc/Downloads/Sublime Text 2.0.1 x64/Data/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/donnelc/Downloads/Sublime Text 2.0.1 x64/Data/Packages/User/JavaScript.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"uat",
+			"UAT",
+			"<Message Text=\"Entry Point\" />\n		<Message Text=\"Hello, $(FullName)\" />",
+			"MSBuild.ExtensionPack.dll",
+			">\n",
+			"TargetB",
+			"TargetA",
+			"path",
+			"blood",
+			"Please",
+			"button",
+			"\n}",
+			"This",
+			"this",
+			"thi",
+			"worl",
+			"Hello",
+			"you",
+			"world",
+			"Hello",
+			"know",
+			"stuff.",
+			">>> ",
+			"\n>>>",
+			">>> ",
+			"_webUrl",
+			"get",
+			";\n",
+			"multiple",
+			"say",
+			"multiple",
+			"multip",
+			"say",
+			"this",
+			"Replace",
+			"Replace this to something else",
+			"something",
+			"this",
+			"Hello",
+			"multiple"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 249.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				".tasks",
+				"MSBuild-Extension-Pack/MSBuild Extension Pack/MSBuild.ExtensionPack.tasks"
+			],
+			[
+				"tes",
+				"js/test.js"
+			],
+			[
+				".txt",
+				"js/sublimetext.txt"
+			],
+			[
+				".css",
+				"js/normalise.css"
+			],
+			[
+				"test",
+				"js/test.js"
+			],
+			[
+				"su",
+				"js/sublimetext.txt"
+			],
+			[
+				"replace",
+				"Replace this to something else, Dont know what to"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/donnelc/Documents/Study/SharePoint/BCS/BCS-Intro.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true
+}
